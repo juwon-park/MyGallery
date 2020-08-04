@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dimicapstone.mygl" >
+
+    <application >
+
+        <activity android:name=".gallery" android:launchMode="singleTask"/>
+
+    </application>
+
+</manifest>
