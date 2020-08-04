@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dimicapstone.mygl" >
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+
+    <application >
+        <activity android:name=".gallery" android:launchMode="singleTask"/>
+    </application>
+
+
+</manifest>
+
+
